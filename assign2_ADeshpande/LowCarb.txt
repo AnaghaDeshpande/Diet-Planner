@@ -1,0 +1,21 @@
+Pizza:Thin Crust:05.00:150
+Tea:Lemmon Tea:3.0:20
+Salad:Green Veg:13.0:50
+Coffee:black:3.0:52
+Naan:wheet:10.0:45
+Rice:white:12.0:56
+potato chips:oily food:6.9:34
+Spinach roll: Green Spinach: 4.0:90
+Tomato Soup:hot:12.0:78
+Spinach Soup: Mediam spicy:12.0:77
+Cheese pasta:pesto:18.0:44
+Milk Coffee: Cold coffee:5.0:33
+cake: plain cake:12.0:77
+burger: veg:7.0:88
+Boiled Rice: low cal:12.0:66
+Capsicum roll:healthy food:12.0:34
+banana pie:banana special:5.0:78
+apple pie:Apple special:6.9:55
+mango juice:Sweet:15.0:90
+fruit plate:all fruits:30:90
+grape juice:grapes:5.0:34
